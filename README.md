@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charles-mutabazi
 - 👀 I’m interested in Robotics and embeded systems and automation
-- 🌱 I’m currently learning Swift and improving React-Native skills
+- 🌱 I’m currently learning Swift and improving React-Native skills on a regular basis
 - 📫 How to reach me: twitter - @charlmuta
 
 <!---
