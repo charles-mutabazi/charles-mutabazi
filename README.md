@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @charles-mutabazi
-- 👀 I’m interested in Robotics and embeded systems and automation as a hobby
-- 🌱 I’m currently working with Swift, Kotlin for native mobile development and improving React-Native skills on a regular basis
-- I am picking interest in human computer interaction - learning more about micro controllers
-- 📫 How to reach me: twitter - @charlmuta
+# 👋 Hello, I'm Charles Mutabazi
+
+I'm a passionate technologist exploring the intersection of **Robotics**, **Embedded Systems**, and **Automation** — mostly as a hobby, but with deep curiosity and dedication.
+
+### 🔧 What I'm Working On
+- Building native mobile apps with **Swift** and **Kotlin**
+- Sharpening my **React Native** skills regularly
+- Experimenting with **microcontrollers** and diving deeper into **Human-Computer Interaction (HCI)**
+
+### 👀 Interests
+- Robotics & embedded systems  
+- Automation and control  
+- Creative coding and interactive tech
+
+### 📫 Connect with Me
+- Twitter: [@charlmuta](https://twitter.com/charlmuta)  
+- GitHub: [@charles-mutabazi](https://github.com/charles-mutabazi)
+
+---
+
+Feel free to follow or reach out — always happy to connect with fellow makers and curious minds!
 
 <!---
 charles-mutabazi/charles-mutabazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
